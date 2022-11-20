@@ -1,10 +1,14 @@
 # Random Quote - MVVM with Retrofit and Room example
-- This app shows 
-  - the use of Retrofit - Network Calls
-  - the use of Room
+- In this app get data from API and store data into Room Database if the Internet is not available then data is showed from database and when internet is available data showed from API.
+- This app shows
+  - MVVM Architecture
+  - Repository Ptterm
+  - The use of Retrofit - Network Calls
+  - The use of Room
   - Work Manager - sync data
   - Exception Handling
-  - MVVM Architecture
   - Dependency Injection
+- Singleton Retrofit and Room Database Object
+- Clean Code
 # For any query
   - contact with me through nzdeveloper009@gmail.com
